@@ -4,7 +4,7 @@ https://chatgpt.com/share/6a0f1bfa-2404-83a3-a44d-0e04b8b88a78
 
 ---
 
-# README — Career Direction Framework: Data-Driven Research & Analytical Path
+# Career Direction Framework: Data-Driven Research & Analytical Path
 
 ## Project Title
 
